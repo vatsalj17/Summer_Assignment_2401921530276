@@ -2,7 +2,6 @@
 
 4-week dsa + oop assignment
 
-> all the work is completely in c, only the OOP is in java because assignment said  
-> the in_c/ folder in OOPS directory contains the respective oop solution of java 
-in c because *why not*  
-> also makefiles are present in necessary places. use it to build the code
+> all the work is completely in c, only oops is in java because the assignment said it  
+> the in_c/ folder in OOP/ directory contains the respective oops solution in c  
+> also Makefiles are present in necessary places. use it to build and run the code
